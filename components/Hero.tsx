@@ -49,7 +49,7 @@ const Hero = () => {
           {/**
            *  Link: https://ui.aceternity.com/components/text-generate-effect
            *
-           *  change md:text-6xl, add more responsive code
+           *  change md:text-6xl, add ore responsive code
            */}
           <TextGenerateEffect
             words="Transforming Concepts into Seamless User Experiences"
