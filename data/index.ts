@@ -1,8 +1,7 @@
 export const navItems = [
-    { name: "About", link: "#about" },
-    { name: "Projects", link: "#projects" },
-    { name: "Testimonials", link: "#testimonials" },
-    { name: "Contact", link: "#contact" },
+    { name: "Sobre", link: "#about" },
+    { name: "Projetos", link: "#projects" },
+    { name: "Contato", link: "#contact" },
 ];
 
 export const gridItems = [
@@ -104,7 +103,7 @@ export const projects = [
     },
 ];
 
-export const testimonials = [
+/* export const testimonials = [
     {
         quote:
             "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
@@ -136,6 +135,7 @@ export const testimonials = [
         title: "Director of AlphaStream Technologies",
     },
 ];
+*/
 
 export const companies = [
     {

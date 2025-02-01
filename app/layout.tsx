@@ -5,8 +5,8 @@ import { ThemeProvider } from "./provider";
 import { GeistSans } from 'geist/font/sans';
 import { GeistMono } from 'geist/font/mono';
 
-const geistSans = GeistSans; // Sem chamar como função
-const geistMono = GeistMono; // Sem chamar como função
+const geistSans = GeistSans;
+const geistMono = GeistMono;
 
 
 
@@ -17,16 +17,17 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+}: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="dark"
           enableSystem
           disableTransitionOnChange
         >
@@ -36,3 +37,4 @@ export default function RootLayout({
     </html>
   );
 }
+
