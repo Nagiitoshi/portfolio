@@ -68,6 +68,7 @@ export const gridItems = [
     },
 ];
 
+// mudar aqui!!
 export const projects = [
     {
         id: 1,
