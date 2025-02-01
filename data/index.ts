@@ -17,7 +17,7 @@ export const gridItems = [
     },
     {
         id: 2,
-        title: "Sou bastante flexível em relação a fusos horários, facilitando a comunicação e o alinhamento com clientes de qualquer região.",
+        title: "Flexível com fusos horários para uma comunicação eficiente",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
@@ -27,8 +27,8 @@ export const gridItems = [
     },
     {
         id: 3,
-        title: "Minha stack de tecnologias inclui",
-        description: "Busco constantemente evoluir e melhorar minhas habilidades",
+        title: "Minha Stack",
+        description: "Sempre em busca de evolução e crescimento",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
         titleClassName: "justify-center",
@@ -49,7 +49,7 @@ export const gridItems = [
     {
         id: 5,
         title: "Atualmente desenvolvendo um sistema de agendamentos em Java",
-        description: "Escopo do Projeto",
+        description: "Escopo",
         className: "md:col-span-3 md:row-span-2",
         imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
         titleClassName: "justify-center md:justify-start lg:justify-center",
