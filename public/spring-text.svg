@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32.21035mm"
+   height="7.0733738mm"
+   viewBox="0 0 32.210351 7.073374"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="spring-text.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9598765"
+     inkscape:cx="157.91811"
+     inkscape:cy="182.91969"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="32.21035"
+       height="7.0733743"
+       id="page1"
+       margin="0 83.835007 0 0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="208.1767"
+       y="408.05518"
+       width="45.820518"
+       height="81.899666"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-107.18398,258.88594)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583;-inkscape-font-specification:'Ubuntu Sans Medium';font-family:'Ubuntu Sans';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="107.46192"
+       y="-253.55531"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:5.64444px;fill:#ffffff;stroke-width:0.264583;-inkscape-font-specification:'Ubuntu Sans Medium';font-family:'Ubuntu Sans';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="107.46192"
+         y="-253.55531">Spring Boot</tspan></text>
+  </g>
+</svg>
