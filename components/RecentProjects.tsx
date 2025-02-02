@@ -65,9 +65,15 @@ const RecentProjects = () => {
                                 </div>
 
                                 <div className="flex justify-center items-center">
-                                    <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                                    Verifique o site
-                                    </p>
+                                    <a
+                                        href={item.link} // Aqui você pode substituir por item.link ou o link que deseja
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <p className="flex lg:text-xl md:text-xs text-sm text-purple">
+                                            Verifique o site
+                                        </p>
+                                    </a>
                                     <FaLocationArrow className="ms-3" color="#CBACF9" />
                                 </div>
                             </div>
@@ -80,3 +86,5 @@ const RecentProjects = () => {
 };
 
 export default RecentProjects;
+
+
