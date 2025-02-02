@@ -1,7 +1,7 @@
 export const navItems = [
     { name: "Sobre", link: "#about" },
     { name: "Projetos", link: "#projects" },
-    {name: "Depoimentos", link: "#testimonials  "},
+    // {name: "Depoimentos", link: "#testimonials"},
     { name: "Contato", link: "#contact" },
 ];
 
@@ -175,29 +175,29 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Frontend Engineer Intern",
-        desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+        title: "Java Developer Intern",
+        desc: "Auxiliei no desenvolvimento de APIs RESTful com Spring Boot, otimizando a comunicação entre serviços.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Mobile App Dev - JSM Tech",
-        desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-        className: "md:col-span-2", // change to md:col-span-2
+        title: "Backend Developer Intern",
+        desc: "Colaborei na manutenção e aprimoramento de bancos de dados MySQL, garantindo maior eficiência nas consultas.",
+        className: "md:col-span-2",
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
-        title: "Freelance App Dev Project",
-        desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-        className: "md:col-span-2", // change to md:col-span-2
+        title: "Python Developer Intern",
+        desc: "Desenvolvi scripts automatizados em Python para otimizar processos internos, reduzindo o tempo de execução de tarefas repetitivas.",
+        className: "md:col-span-2",
         thumbnail: "/exp3.svg",
     },
     {
         id: 4,
-        title: "Lead Frontend Developer",
-        desc: "Developed and maintained user-facing features using modern frontend technologies.",
+        title: "JavaScript Developer Intern",
+        desc: "Contribuí para o desenvolvimento de sistemas interativos usando React.js e integração com APIs RESTful.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },
