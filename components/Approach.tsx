@@ -13,7 +13,7 @@ const Approach = () => {
             <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
                 <Card
                     title="Planejamento e Estratégia"
-                    icon={<AceternityIcon order="Phase 1" />}
+                    icon={<AceternityIcon order="Fase 1" />}
                     des="Antes de iniciar o desenvolvimento, planejamos cuidadosamente seu projeto, analisando a experiência do usuário, arquitetura da informação e principais funcionalidades para garantir um fluxo intuitivo."
                 >
                     <CanvasRevealEffect
@@ -23,7 +23,7 @@ const Approach = () => {
                 </Card>
                 <Card
                     title="Evolução do Projeto e Atualizações"
-                    icon={<AceternityIcon order="Phase 2" />}
+                    icon={<AceternityIcon order="Fase 2" />}
                     des="Depois de alinharmos o plano, coloco minha playlist favorita e mergulho no código. Do esboço inicial ao produto final, mantenho você informado em cada etapa do processo."
                 >
                     <CanvasRevealEffect
@@ -38,7 +38,7 @@ const Approach = () => {
                 </Card>
                 <Card
                     title="Construção & Lançamento"
-                    icon={<AceternityIcon order="Phase 3" />}
+                    icon={<AceternityIcon order="Fase 3" />}
                     des="É aqui que a mágica acontece! Com o design aprovado, transformo tudo em código funcional, construindo seu site do zero."
                 >
                     <CanvasRevealEffect
