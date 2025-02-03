@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Portfólio Pessoal em React</h1>
 
-## Getting Started
+Construído com:
 
-First, run the development server:
+- Biblioteca Front-end: React
+- Framework CSS: React-bootstrap
+- Biblioteca de animações CSS: Animate.css
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+No diretório `/personal-portfolio`, você pode executar:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### `npm start`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+A página será recarregada quando houver alterações no código.\
+Você também pode ver erros de lint no console.
 
-## Learn More
+### `npm test`
 
-To learn more about Next.js, take a look at the following resources:
+Inicia o executor de testes no modo interativo.\
+Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### `npm run build`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Compila o aplicativo para produção na pasta `build`.\
+Ele empacota corretamente o React no modo de produção e otimiza a compilação para melhor desempenho.
 
-## Deploy on Vercel
+A build é minificada e os nomes dos arquivos incluem hashes.\
+Seu aplicativo está pronto para ser implantado!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Consulte a seção sobre [deploys](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
